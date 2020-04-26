@@ -1,0 +1,82 @@
+.site{
+  font-family: "Poppins";
+  color: #4d4646;
+  font-size: 1.5rem;
+  background-color: #edf2f6;
+
+}
+
+h1{
+  font-size: 3rem;
+  color: #6a7efc;
+}
+
+h3{
+  color: #494953;
+}
+
+.carousel-item{
+  padding: auto auto;
+}
+
+.banner{
+  width: 100%;
+}
+
+/* Navigation */
+
+
+/* Header */
+#header{
+  padding: 0 1%;
+}
+
+#info{
+  padding: 3% 10% 2%;
+  text-align: center;
+}
+
+#details{
+  text-align: center;
+  padding: 0 7% 2%;
+}
+
+.info-row{
+  padding: 2% 15% 0;
+}
+
+.info-image{
+  width: 50%;
+  border-radius: 100%;
+}
+
+#about{
+  background-color: #ff5656;
+  color: white;
+  padding: 2% 10%;
+}
+
+.card-deck{
+  padding: 2% 25%;
+}
+
+.btn{
+  background-color: #494953;
+}
+
+#register{
+  padding-top: 2%;
+}
+
+#register h2{
+  padding-left: 10%;
+  padding-right: 10%;
+  color: #6a7efc;
+}
+#register h3{
+  color: #6a7efc;
+}
+#register p{
+  padding-left: 10%;
+  padding-right: 10%;
+}
